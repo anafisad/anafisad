@@ -1,9 +1,34 @@
-### Hello Hello, I'm Nafisa 👋🏾 👩🏾‍💻 👋
+<h3 align="center"> ### Hello Hello, I'm Nafisa 👋🏾 👩🏾‍💻 👋  </h3>
+
+<p align="center">
+  <a href="https://novellisteer.com">🌍 Blog • 
+  <a href="https://twitter.com/novellisteer">📱 Twitter</a> • 
+  <a href="https://instagram.com/c/novellisteer">📼 Instagram</a>
+</p>
+
+Currently studying to 🐝 a DevSecop Engineer, Black Woman in Tech + Business, Lifestyle & Growth Content Creator 💛 Student of Life and Content Educator. 
+
+I am very passionate about pop culture, technology & .
+
+
+🔭 I’m currently building Novellisteer, a brand, blog and podcast on sharing the big and low of being novel in securing your life, wellbeing, business and evolving in tech.
+
+💬 Ask me about: Podcasting, project Management, Airtable, content creating, Notion.
+
+📫 How to reach me: You can find me on [twitter](https://twitter.com/novelllisteer). 
+
+🌱 I’m currently leavling up in Amazon Web Servicer, networking, python and scripting.
+
+👯 I’m looking to collaborate on creative content for human in tech and cloud security. 
+
+🤔 I’m looking for help with content strategy for tech start up.
+
+⚡ Fun fact: I really love building. I have a lot of idea 👠
 
 <!--
 **anafisad/anafisad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-💬 Ask me about: Podcasting, project Management, Airtable, Notion.
+
 
 ⚡️ What I do:
 
@@ -16,40 +41,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-
-Find me around the web 🌎:
-Linkedin
-<h3 align="center">👋 Hi, I'm Nafisa 👩🏾‍🔧 </h3>
-<p align="center">
-  <a href="https://novellisteer.com">🌍 Blog • 
-  <a href="https://twitter.com/novellisteer">📱 Twitter</a> • 
-  <a href="https://instagram.com/c/novellisteer">📼 YouTube</a>
-</p>
-
-Currently studying to 🐝 a DevSecop Engineer, Black Woman in Tech + Business, Lifestyle & Growth Content Creator 💛 Student of Life and Content Educator. 
-
-I am very passionate about pop culture, technology & .
-
-
-🔭 I’m currently working on Mixed Reality Services that allow other developers build amazing cross platform Mixed Reality experiences
-
-💬 Ask me about: Infrastrcuture As Code, Mixed Reality, Dotnet
-
-📫 How to reach me: You can find me on [twitter](https://twitter.com/AdoraNwodo). I'm always there
-
-⚡ Fun fact: I really love shoes. I have a lot of them 👠
-
-<!--
-**AdoraNwodo/AdoraNwodo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
