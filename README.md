@@ -1,4 +1,4 @@
-<h3 align="center"> Hello Hi, I'm Nafisa 👋🏾 👩🏾‍💻 👋  </h3>
+<h3 align="center"> Hello Hi, I'm Nafisa (She/Her) 👋🏾 👩🏾‍💻 👋 </h3>
 
 <p align="center">
   <a href="https://novellisteer.com">🌍 Blog • 
@@ -29,7 +29,7 @@ I am very passionate about pop culture, technology & .
 **anafisad/anafisad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-
+-->
 ⚡️ What I do:
 
 - 🔭 I’m currently working on ...
@@ -40,7 +40,7 @@ I am very passionate about pop culture, technology & .
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
