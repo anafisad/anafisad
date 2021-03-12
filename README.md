@@ -1,4 +1,4 @@
-<h3 align="center"> ### Hello Hello, I'm Nafisa 👋🏾 👩🏾‍💻 👋  </h3>
+<h3 align="center"> Hello Hi, I'm Nafisa 👋🏾 👩🏾‍💻 👋  </h3>
 
 <p align="center">
   <a href="https://novellisteer.com">🌍 Blog • 
