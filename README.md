@@ -23,7 +23,7 @@ I am very passionate about pop culture, technology & .
 
 🤔 I’m looking for help with content strategy for tech start up.
 
-⚡ Fun fact: I really love building. I have a lot of idea 👠
+⚡ Fun fact: I really love building. I have a lot of idea 
 
 <!--
 **anafisad/anafisad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
