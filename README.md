@@ -1,7 +1,7 @@
 <h3 align="center"> Hello Hi, I'm Nafisa (She/Her) 👋🏾 👩🏾‍💻 👋 </h3>
 
 <p align="center">
-  <a href="https://novellisteer.com">🌍 Blog • 
+  <a href="https://novellisteer.com">🌍 Brand • 
   <a href="https://twitter.com/novellisteer">📱 Twitter</a> • 
   <a href="https://instagram.com/c/novellisteer">📼 Instagram</a>
 </p>
@@ -13,17 +13,17 @@ I am very passionate about pop culture, technology & .
 
 🔭 I’m currently building Novellisteer, a brand, blog and podcast on sharing the big and low of being novel in securing your life, wellbeing, business and evolving in tech.
 
-💬 Ask me about: Podcasting, project Management, Airtable, content creating, Notion.
+💬 Ask me about: Podcasting, Project management, Airtable, Content strategy, Notion, Cybersecurity, People, Process, Technology.
 
 📫 How to reach me: You can find me on [twitter](https://twitter.com/novelllisteer). 
 
 🌱 I’m currently leavling up in Amazon Web Servicer, networking, python and scripting.
 
-👯 I’m looking to collaborate on creative content for human in tech and cloud security. 
+👯 I’m looking to collaborate on creative strategy and  creation. 
 
-🤔 I’m looking for help with content strategy for tech start up.
+🤔 I’m looking for help with levelling in Tech.
 
-⚡ Fun fact: I really love building. I have a lot of idea 
+⚡ Fun fact: I really love building and I have a lot of idea 
 
 <!--
 **anafisad/anafisad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
