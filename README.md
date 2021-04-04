@@ -11,13 +11,13 @@ Currently interested in Cyber Criminology and Cloud Security, an improvement & g
 I am very passionate about pop culture, technology & process.
 
 
-🔭 I’m currently building Novellisteer, a brand, blog and podcast on sharing the big and low of being novel in securing your life, wellbeing, business and evolving in tech.
+🔭 Am currently building Novellisteer, a brand, blog and podcast on sharing the big and low of being novel in securing your life, wellbeing, business and evolving in tech.
 
 💬 Ask me about: podcasting, project management, system tools, content strategy, cybersecurity, people, process, technology.
 
 📫 How to reach me: You can find me on [twitter](https://twitter.com/anafisad). 
 
-🌱 I’m currently leavling up in Amazon Web Servicer, Networking, Python and Scripting.
+🌱 I’m currently leveling up in Cloud, Business Building, Python and Scripting.
 
 👯 I’m looking to collaborate on building a platform for Multipassionate being in tech. 
 
