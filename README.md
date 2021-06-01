@@ -1,7 +1,7 @@
 <h3 align="center"> Hello Hi, I'm Nafisa (She/Her) 👋🏾 👩🏾‍💻 👋 </h3>
 
 <p align="center">
-  <a href="https://novellisteer.com">🌍 Brand • 
+  
   <a href="https://twitter.com/anafisad">📱 Twitter</a> • 
   <a href="https://instagram.com/c/novellisteer">📼 Instagram</a>
 </p>
@@ -11,7 +11,7 @@ Entrepreneur + Content Manager currently studying 𝓒𝔂𝓫𝓮𝓻 𝓢𝓮�
 I am very passionate about pop culture, strategy, technology & process.
 
 
-🔭 Am currently building Novellisteer was created in 2020, as a blog and podcast on 𝐢𝐦𝐩𝐫𝐨𝐯𝐢𝐧𝐠, 𝐠𝐫𝐨𝐰𝐢𝐧𝐠 𝐚𝐧𝐝 𝐬𝐞𝐜𝐮𝐫𝐢𝐧𝐠 all area of your life as a multi being.
+🔭 Creator of Novellisteer <a href="https://novellisteer.com">,  a blog and podcast on 𝐢𝐦𝐩𝐫𝐨𝐯𝐢𝐧𝐠, 𝐠𝐫𝐨𝐰𝐢𝐧𝐠 𝐚𝐧𝐝 𝐬𝐞𝐜𝐮𝐫𝐢𝐧𝐠 all area of your life as a multi being.
 
 ✨ Building 𝑫𝒂𝒎𝒊𝒆𝒍 𝑩𝒂𝒅𝒓𝒂, a studio with the vision to help creative build an 𝐚𝐜𝐭𝐢𝐨𝐧𝐚𝐛𝐥𝐞 𝐜𝐨𝐧𝐭𝐞𝐧𝐭 through tools and strategist leveraging pinterest, blog and podcast while bringing 𝒘𝒆𝒍𝒍𝒏𝒆𝒔𝒔 𝒂𝒏𝒅 𝒔𝒕𝒚𝒍𝒆 𝒊𝒏𝒕𝒐 𝒕𝒆𝒄𝒉.
 
