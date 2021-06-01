@@ -6,9 +6,9 @@
   <a href="https://instagram.com/c/novellisteer">📼 Instagram</a>
 </p>
 
-Currently interested in Cyber Criminology and Forensic Psychology, an improvement & growth creator + content strategist and educator 💛 Student of Life 💛
+Currently interested in Cyber Criminology, cloud, security and Forensic Psychology, an improvement & growth creator + content strategist and educator 💛 Student of Life 💛
 
-I am very passionate about pop culture, technology & process.
+I am very passionate about pop culture, strategy, technology & process.
 
 
 🔭 Am currently building Novellisteer, a brand, blog and podcast on sharing the big and low of being novel in securing your life, wellbeing, business and evolving in tech.
