@@ -6,14 +6,14 @@
   <a href="https://instagram.com/c/novellisteer">📼 Instagram</a>
 </p>
 
-Entrepreneur + Content Manager currently studying 𝓒𝔂𝓫𝓮𝓻 𝓢𝓮𝓬𝓾𝓻𝓲𝓽𝔂, interested in Criminology, Cloud, Security and Forensic Psychology. 
+Content Creator & Strategist who guide creators and cybersecurity humans in building an actionable content strategy & system dashboard.
 
 I am very passionate about pop culture, strategy, technology & process.
 
 
 🔭 Creator of <a href="https://novellisteer.com"> Novellisteer</a>,  a blog and podcast on 𝐢𝐦𝐩𝐫𝐨𝐯𝐢𝐧𝐠, 𝐠𝐫𝐨𝐰𝐢𝐧𝐠 𝐚𝐧𝐝 𝐬𝐞𝐜𝐮𝐫𝐢𝐧𝐠 all area of your life as a multi being.
 
-✨ Building 𝑫𝒂𝒎𝒊𝒆𝒍 𝑩𝒂𝒅𝒓𝒂, a studio with the vision to help creative build an 𝐚𝐜𝐭𝐢𝐨𝐧𝐚𝐛𝐥𝐞 𝐜𝐨𝐧𝐭𝐞𝐧𝐭 through tools and strategist leveraging pinterest, blog and podcast while bringing 𝒘𝒆𝒍𝒍𝒏𝒆𝒔𝒔 𝒂𝒏𝒅 𝒔𝒕𝒚𝒍𝒆 𝒊𝒏𝒕𝒐 𝒕𝒆𝒄𝒉.
+✨ Building novellisteer Creative, a studio with the vision to help creative and cybersecurity humans build an 𝐚𝐜𝐭𝐢𝐨𝐧𝐚𝐛𝐥𝐞 𝐜𝐨𝐧𝐭𝐞𝐧𝐭 through tools and strategist.
 
 💬 Ask me about: podcasting, project management, system tools, content strategy, cybersecurity, people, process, technology.
 
