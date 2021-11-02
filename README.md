@@ -11,7 +11,7 @@ Content Creator & Strategist who guide creators and cybersecurity humans in buil
 I am very passionate about pop culture, strategy, technology & process.
 
 
-🔭 Creator of <a href="https://novellisteer.com"> Novellisteer</a>,  a blog and podcast on 𝐢𝐦𝐩𝐫𝐨𝐯𝐢𝐧𝐠, 𝐠𝐫𝐨𝐰𝐢𝐧𝐠 𝐚𝐧𝐝 𝐬𝐞𝐜𝐮𝐫𝐢𝐧𝐠 all area of your life as a multi being.
+🔭 Creator of <a href="https://novellisteer.com"> Novellisteer</a>,  A blog, podcast and youtube channel where I share the art of being novel while spreading awareness of what it means to be a multi-passionate being, using my platform to educate others.
 
 ✨ Building novellisteer Creative, a studio with the vision to help creative and cybersecurity humans build an 𝐚𝐜𝐭𝐢𝐨𝐧𝐚𝐛𝐥𝐞 𝐜𝐨𝐧𝐭𝐞𝐧𝐭 through tools and strategist.
 
