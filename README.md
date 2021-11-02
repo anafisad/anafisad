@@ -13,15 +13,15 @@ I am very passionate about pop culture, strategy, technology & process.
 
 🔭 Creator of <a href="https://novellisteer.com"> Novellisteer</a>,  A blog, podcast and youtube channel where I share the art of being novel while spreading awareness of what it means to be a multi-passionate being, using my platform to educate others.
 
-✨ Building novellisteer Creative, a studio with the vision to help creative and cybersecurity humans build an 𝐚𝐜𝐭𝐢𝐨𝐧𝐚𝐛𝐥𝐞 𝐜𝐨𝐧𝐭𝐞𝐧𝐭 through tools and strategist.
+✨ Building novellisteer studio, where i creators and cybersecurity humans in building an actionable content strategy & system dashboard as a freelance content strategist and technical writer.
 
-💬 Ask me about: podcasting, project management, system tools, content strategy, cybersecurity, people, process, technology.
+💬 Ask me about: podcasting, project management, Notion, content strategy, cybersecurity, Airtable, process, blogginh.
 
 📫 How to reach me: You can find me on [twitter](https://twitter.com/anafisad). 
 
-🌱 I’m currently leveling up in Cloud, Business Building, Python and Scripting.
+🌱 I’m currently building novellisteer both as a platform and service based business.
 
-👯 I’m looking to collaborate on building Damiel Badra.
+👯 I’m looking to forward to building an actionable content for your brand.
 
 🤔 I’m looking for help with keeping my head out of my heart.
 
