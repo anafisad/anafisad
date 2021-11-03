@@ -6,14 +6,14 @@
   <a href="https://instagram.com/c/novellisteer">📼 Instagram</a>
 </p>
 
-Content Creator & Strategist who guide creators and cybersecurity humans in building an actionable content strategy & system dashboard.
+Content Creator & Strategist who guide creators and cybersecurity humans in building an actionable content & system dashboard.
 
 I am very passionate about pop culture, strategy, technology & process.
 
 
-🔭 Creator of <a href="https://novellisteer.com"> Novellisteer</a>,  A blog, podcast and youtube channel where I share the art of being novel while spreading awareness of what it means to be a multi-passionate being, using my platform to educate others.
+🔭 Creator of <a href="https://novellisteer.com"> Novellisteer</a>,  A blog, podcast and youtube channel where I share the art of being novel while spreading awareness of what it means to be a multi-passionate being and freelancer, using my platform to educate others.
 
-✨ Building novellisteer studio, where i creators and cybersecurity humans in building an actionable content strategy & system dashboard as a freelance content strategist and technical writer.
+✨ Building novellisteer studio, where i guide creators and cybersecurity humans in building an actionable content & system dashboard as a freelance content strategist and technical writer.
 
 💬 Ask me about: podcasting, project management, Notion, content strategy, cybersecurity, Airtable, process, blogginh.
 
