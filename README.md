@@ -6,20 +6,18 @@
   <a href="https://instagram.com/c/novellisteer">📼 Instagram</a>
 </p>
 
-Content Creator & Strategist who guide creators and cybersecurity humans in building an actionable content & system dashboard.
-
-I am very passionate about pop culture, strategy, technology & process.
+I am Nafisa learning how to merge cybersecurity, machine learning creativity and my love for pop culture while been a freelance writer. I am very passionate about pop culture, strategy, technology & process.
 
 
 🔭 Creator of <a href="https://novellisteer.com"> Novellisteer</a>,  A blog, podcast and youtube channel where I share the art of being novel while spreading awareness of what it means to be a multi-passionate being and freelancer, using my platform to educate others.
 
-✨ Building novellisteer studio, where i guide creators and cybersecurity humans in building an actionable content & system dashboard as a freelance content strategist and technical writer.
+✨ Building Damiel Badra and hosting twitter space for creative freelance in Africa by An African.
 
 💬 Ask me about: podcasting, project management, Notion, content strategy, cybersecurity, Airtable, process, blogginh.
 
 📫 How to reach me: You can find me on [twitter](https://twitter.com/anafisad). 
 
-🌱 I’m currently building novellisteer both as a platform and service based business.
+🌱 I’m currently building novellisteer both as a platform and product based business.
 
 👯 I’m looking to forward to building an actionable content for your brand.
 
