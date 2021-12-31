@@ -6,7 +6,7 @@
   <a href="https://instagram.com/c/novellisteer">📼 Instagram</a>
 </p>
 
-I am Nafisa learning how to merge cybersecurity, machine learning creativity and my love for pop culture while been a freelance writer. I am very passionate about pop culture, strategy, technology & process.
+I am Nafisa learning how to merge cybersecurity, machine learning creativity and my love for pop culture while been a freelance writer on [Blog](https://anafisad.hashnode.dev) I am very passionate about pop culture, strategy, technology & process.
 
 
 🔭 Creator of <a href="https://novellisteer.com"> Novellisteer</a>,  A blog, podcast and youtube channel where I share the art of being novel while spreading awareness of what it means to be a multi-passionate being and freelancer, using my platform to educate others.
