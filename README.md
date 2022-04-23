@@ -11,11 +11,13 @@ I am Nafisa learning how to merge cybersecurity, machine learning creativity and
 
 🔭 Creator of <a href="https://novellisteer.com"> Novellisteer</a>,  A blog, podcast and youtube channel where I share the art of being novel while spreading awareness of what it means to be a multi-passionate being and freelancer, using my platform to educate others.
 
-✨ Building Damiel Badra and hosting twitter space for creative freelance in Africa by An African.
+✨ Building The Seeker Effect a newsletter at the intersection of Cybersecurity, Artificial Intelligence and Marketing 
 
-💬 Ask me about: podcasting, project management, Notion, content strategy, cybersecurity, Airtable, process, blogginh.
+✨ Building For Africa By African a newsletter for creative freelancer in Africa where we share highlight and share content on blogging, podcasting, creator economy and freelancing
 
-📫 How to reach me: You can find me on [twitter](https://twitter.com/anafisad). 
+💬 Ask me about: podcasting, project management, Notion, content strategy, machine learning, data science cybersecurity, Airtable, process, blogginh.
+
+📫 How to reach me: You can find me on [twitter](https://twitter.com/damielbadra). 
 
 🌱 I’m currently building novellisteer both as a platform and product based business.
 
@@ -23,7 +25,7 @@ I am Nafisa learning how to merge cybersecurity, machine learning creativity and
 
 🤔 I’m looking for help with keeping my head out of my heart.
 
-⚡ Fun fact: I really love building and destroying and I have a lot of idea 
+⚡ Fun fact: I really love building, destroying and I have a lot of idea 
 
 <!--
 **anafisad/anafisad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
