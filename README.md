@@ -3,10 +3,10 @@
 <p align="center">
   
   <a href="https://twitter.com/anafisad">📱 Twitter</a> • 
-  <a href="https://instagram.com/c/novellisteer">📼 Instagram</a>
+  <a href="https://linkedin.com/in/anafisad">📼 Linkedin</a>
 </p>
 
-I am Nafisa learning how to merge cybersecurity, machine learning creativity and my love for pop culture while been a freelance writer on [Blog](https://anafisad.hashnode.dev) I am very passionate about pop culture, strategy, technology & process.
+I am Nafisa building Novellisteer - A platform and community for introverted ambitious women during the weekend. Helping brands build reliable and healthy communities while being a cyber security graduate research student. I am very passionate about pop culture, strategy, technology & processes.
 
 
 🔭 Creator of <a href="https://novellisteer.com"> Novellisteer</a>,  A blog, podcast and youtube channel where I share the art of being novel while spreading awareness of what it means to be a multi-passionate being and freelancer, using my platform to educate others.
