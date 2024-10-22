@@ -13,11 +13,9 @@ I am Nafisa, building Novellisteer - A platform and community for introverted am
 
 ✨ Building The Seeker Effect - Where I build security initiatives like the Not So Linear newsletter and help businesses defend against insider threats with make it make-it-make-sense content, training, demos and talks. 
 
-✨ Building For Africa By African a newsletter for creative freelancers in Africa where we share highlight and share content on blogging, podcasting, creator economy and freelancing
-
 💬 Ask me about podcasting, project management, Notion, content strategy, machine learning, data science cybersecurity, Airtable, Asian Drama, process, and blogging.
 
-📫 How to reach me: You can find me on [X](https://X.com/damielbadra). 
+📫 How to reach me: You can find me on [X](https://X.com/anafisad). 
 
 🌱 I’m currently building Novellisteer both as a platform and product-based business.
 
